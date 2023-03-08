@@ -6,11 +6,15 @@
 
 ###
 
-<h3 align="left">My technologies</h3>
+<p align="left"></p>
 
 ###
 
-<div align="left">
+<h1 align="center">My Technologies</h1>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
@@ -31,13 +35,13 @@
 
 <br clear="both">
 
-<h3 align="left">My social media</h3>
+<h1 align="center">My social media</h1>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="jl.jorislasserre@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -47,14 +51,8 @@
 
 ###
 
-<div align="left">
-  <img height="150" src="https://i.pinimg.com/originals/93/4e/fc/934efc520a2a34608ef6bbaa9a4b4bd2.gif"  />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/93/4e/fc/934efc520a2a34608ef6bbaa9a4b4bd2.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JorisLasserre/JorisLasserre/blob/output/snake.svg" alt="Snake animation" />
 
 ###
