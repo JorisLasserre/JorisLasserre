@@ -9,5 +9,5 @@ I am a French **Computer Science student (BUT Informatique)** with technical ski
 - **Databases**: MySQL, MongoDB, OracleDB  
 - **Tools & DevOps**: Git, Docker, CI/CD, Linux, VSCode, Postman  
   
-📫 **Contact Me**: 
+## 📫Contact Me: 
 - https://www.linkedin.com/in/joris-lasserre-dev/
